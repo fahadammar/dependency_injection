@@ -1,4 +1,4 @@
-package com.rfa;
+package com.rfa.Interface;
 
 public interface InterfaceWork {
     int add();

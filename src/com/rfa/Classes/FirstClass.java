@@ -1,4 +1,6 @@
-package com.rfa;
+package com.rfa.Classes;
+
+import com.rfa.Interface.InterfaceWork;
 
 public class FirstClass implements InterfaceWork {
     int a = 0;
